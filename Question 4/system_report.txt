@@ -1,0 +1,16 @@
+8c87dfb2c08a
+  PID TTY          TIME CMD
+  554 pts/0    00:00:00 bash
+  599 pts/0    00:00:00 ps
+ 18:27:37 up 20 days, 10:29,  0 users,  load average: 10.28, 8.74, 6.94
+Filesystem                                                                        Size  Used Avail Use% Mounted on
+dockerPool/b049bf1d197d5a15fe75a5a46a20044e35a12731e232b20ea291fb4cafda8eec        13G  3.7G  9.4G  29% /
+tmpfs                                                                              64M     0   64M   0% /dev
+shm                                                                                64M     0   64M   0% /dev/shm
+dockerPool                                                                        247G  6.8G  240G   3% /etc/hosts
+fs-096477e837a108781.efs.us-east-1.amazonaws.com:/workspaces/lvynbsmisebg/files   8.0E   77T  8.0E   1% /home/coder/Desktop
+fs-096477e837a108781.efs.us-east-1.amazonaws.com:/templates/iTqOPtcr/v1/files     8.0E   77T  8.0E   1% /home/coder/Desktop-ro
+devtmpfs                                                                          125G     0  125G   0% /dev/tty
+tmpfs                                                                             125G     0  125G   0% /proc/acpi
+tmpfs                                                                             125G     0  125G   0% /proc/scsi
+tmpfs                                                                             125G     0  125G   0% /sys/firmware
