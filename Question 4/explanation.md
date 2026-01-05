@@ -16,13 +16,16 @@ Display the time elapsed since the system was last booted.
 ![Task 1 - System Uptime Verification](screenshots/task_1_1.png)
 ![Task 1 - System Uptime Verification](screenshots/task_1_2.png)
 
-### Command Used
+### Commands Used
 ```bash
+top
 uptime
 ```
 
 ### Explanation
-To display the time elapsed since the last boot, I used the `uptime` command. The `uptime` command in Linux systems shows how long the system has been running, the current time, the number of logged-in users, and the system's load average (average processes waiting for CPU) over the last 1, 5, and 15 minutes.
+The `top` command provides a real-time, dynamic view of system processes, displaying system uptime at the very top of its output along with CPU usage, memory usage, and running processes. It shows how long the system has been running since the last boot.
+
+The `uptime` command in Linux systems shows how long the system has been running, the current time, the number of logged-in users, and the system's load average (average processes waiting for CPU) over the last 1, 5, and 15 minutes.
 
 ---
 
