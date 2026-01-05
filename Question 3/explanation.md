@@ -177,13 +177,16 @@ Deleting a symbolic link does not affect the original file because a symbolic li
 ### Question
 Demonstrate the usage of `du` and `df` commands using various useful options and briefly explain the output.
 
-### Screenshot
-![Task 10 - Disk Utility Demonstration](screenshots/task_10.png)
+### Screenshots
+![Task 10.1 - du command](screenshots/task_10.png)
+
+![Task 10.2 - df command](screenshots/task_10_2.png)
 
 ### Commands Used
 ```bash
 du -h --max-depth=1
 df -h
+df -T
 ```
 
 ### Explanation
@@ -193,5 +196,6 @@ The `du` and `df` commands are essential for monitoring storage:
 |---------|-------------|
 | `du -h --max-depth=1` | Displays the disk usage of immediate subdirectories in a human-readable format |
 | `df -h` | Displays the filesystem disk space usage in a human-readable format |
+| `df -T` | Displays filesystem disk space usage along with the filesystem type (e.g., ext4, tmpfs, xfs) |
 
 ---
