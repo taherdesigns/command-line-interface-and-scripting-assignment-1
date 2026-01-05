@@ -18,7 +18,7 @@ Create a file named `sample_data.txt` in your home directory and add some sample
 ### Commands Used
 ```bash
 touch sample_data.txt
-echo "Once upon a time, the planets and the fates and all the stars aligned." > sample_data.txt
+echo "This is some sample data I am adding to the file" > sample_data.txt
 ```
 
 ### Explanation
