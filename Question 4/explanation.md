@@ -13,7 +13,8 @@ You must perform all operations without making any configuration changes to the 
 Display the time elapsed since the system was last booted.
 
 ### Screenshot
-![Task 1 - System Uptime Verification](screenshots/task_1.png)
+![Task 1 - System Uptime Verification](screenshots/task_1_1.png)
+![Task 1 - System Uptime Verification](screenshots/task_1_2.png)
 
 ### Command Used
 ```bash
@@ -31,7 +32,8 @@ To display the time elapsed since the last boot, I used the `uptime` command. Th
 Display a list of all running processes on the system.
 
 ### Screenshot
-![Task 2 - Running Process Listing](screenshots/task_2.png)
+![Task 2 - Running Process Listing](screenshots/task_2_1.png)
+![Task 2 - Running Process Listing](screenshots/task_2_2.png)
 
 ### Commands Used
 ```bash
@@ -202,7 +204,8 @@ The redirection of the first output only used one output redirection operator (`
 Demonstrate the usage of the `ncdu` tool using appropriate options and briefly explain what it shows.
 
 ### Screenshot
-![Task 10 - Disk Usage Visualization](screenshots/task_10.png)
+![Task 10 - Disk Usage Visualization](screenshots/task_10_1.png)
+![Task 10 - Disk Usage Visualization](screenshots/task_10_2.png)
 
 ### Command Used
 ```bash
