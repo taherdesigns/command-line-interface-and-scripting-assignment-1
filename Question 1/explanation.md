@@ -1,4 +1,4 @@
-# CLI SGA 1 - Question 1: Linux Command Line Tasks
+# Command Line Interface and Systems SGA 1 - Question 1: Linux Command Line Tasks
 
 ---
 
@@ -8,7 +8,7 @@
 Display your currently logged-in username and all groups your user account belongs to. Your name or login ID must appear in the output.
 
 ### Screenshot
-`screenshots/task_1.png`
+![Task 1 - User Identity Verification](screenshots/task_1.png)
 
 ### Commands Used
 ```bash
@@ -37,7 +37,7 @@ id
 Display the current working directory and list all files and directories in that location using long format listing.
 
 ### Screenshot
-`screenshots/task_2.png`
+![Task 2 - Workspace Validation](screenshots/task_2.png)
 
 ### Commands Used
 ```bash
@@ -63,7 +63,7 @@ ls -la
 Create a file named `user_info.txt` and write the line: `"Linux user environment verified"`
 
 ### Screenshot
-`screenshots/task_3.png`
+![Task 3 - Environment Confirmation File](screenshots/task_3.png)
 
 ### Commands Used
 ```bash
@@ -88,7 +88,7 @@ cat user_info.txt → "Linux user environment verified"
 Display the number of characters present in `user_info.txt`.
 
 ### Screenshot
-`screenshots/task_4.png`
+![Task 4 - File Integrity Check](screenshots/task_4.png)
 
 ### Command Used
 ```bash
@@ -111,8 +111,11 @@ wc -m user_info.txt
 Access the manual page of the `mkdir` command. Identify one useful option and briefly explain what it does.
 
 ### Screenshots
-- `screenshots/task_5_1.png` - Coursera labs (no manual entry error)
-- `screenshots/task_5_2.png` - Personal Linux installation (successful output)
+**Coursera labs (no manual entry error):**
+![Task 5.1 - Coursera Labs](screenshots/task_5_1.png)
+
+**Personal Linux installation (successful output):**
+![Task 5.2 - Personal Linux](screenshots/task_5_2.png)
 
 ### Command Used
 ```bash
@@ -139,7 +142,7 @@ Displays the manual page for `mkdir` with all available options and descriptions
 List the contents of your home directory sorted alphabetically.
 
 ### Screenshot
-`screenshots/task_6.png`
+![Task 6 - Home Directory Inspection](screenshots/task_6.png)
 
 ### Commands Used
 ```bash
@@ -162,7 +165,7 @@ Displays home directory contents in alphabetical order.
 Search for the word "admin" inside a file named `log.txt` and display only the matching lines.
 
 ### Screenshot
-`screenshots/task_7.png`
+![Task 7 - Log Investigation](screenshots/task_7.png)
 
 ### Commands Used
 ```bash
@@ -185,7 +188,7 @@ Displays all lines containing the word "admin" from `log.txt`.
 Display the Linux kernel version currently running.
 
 ### Screenshot
-`screenshots/task_8.png`
+![Task 8 - System Information Check](screenshots/task_8.png)
 
 ### Command Used
 ```bash
@@ -208,7 +211,7 @@ uname -r
 Verify network connectivity by sending ICMP packets to www.google.com.
 
 ### Screenshot
-`screenshots/task_9.png`
+![Task 9 - Network Connectivity Test](screenshots/task_9.png)
 
 ### Command Used
 ```bash
@@ -234,7 +237,7 @@ Shows ICMP packet transmission results with response times and statistics.
 Display the command used to check system uptime and briefly explain its output (uptime duration, number of users, load average).
 
 ### Screenshot
-`screenshots/task_10.png`
+![Task 10 - System Health Awareness](screenshots/task_10.png)
 
 ### Command Used
 ```bash
