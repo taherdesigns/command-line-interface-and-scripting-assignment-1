@@ -16,7 +16,7 @@ mkdir ~/documents
 ```
 
 ### Explanation
-To create the `documents` directory in my home directory, I used the `mkdir` command. The tilde (`~`) symbol is a shortcut for the home directory. I used the `ls` command to verify that the directory has been created.
+To create the `documents` directory in my home directory, I used the `mkdir` command. The tilde (`~`) symbol is a shortcut for the home directory.
 
 ---
 
