@@ -1,6 +1,6 @@
-# CLI SGA 1 - Linux Command Line Fundamentals
+# CLIS SGA 1 - Linux Command Line Fundamentals
 
-Solutions for Command Line Interface and Systems - Skill Graded Assessment 1.
+Solutions for Command Line Interface and Systems - Staff Graded Assessment 1.
 
 ## Questions
 
