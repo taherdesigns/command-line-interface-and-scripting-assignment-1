@@ -178,7 +178,7 @@ Deleting a symbolic link does not affect the original file because a symbolic li
 Demonstrate the usage of `du` and `df` commands using various useful options and briefly explain the output.
 
 ### Screenshots
-![Task 10.1 - du command](screenshots/task_10.png)
+![Task 10.1 - du command](screenshots/task_10_1.png)
 
 ![Task 10.2 - df command](screenshots/task_10_2.png)
 
