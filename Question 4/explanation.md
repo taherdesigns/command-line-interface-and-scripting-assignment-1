@@ -67,7 +67,7 @@ top
 ### Explanation
 To identify the process consuming the highest CPU, I used the `top` command. This tool provides a real-time, dynamic view of the system, automatically sorting processes by their resource consumption, including CPU and memory usage.
 
-The output is a continuously updating list. The process at the very top of the list under the `COMMAND` column is consuming the most CPU resources at that moment. In this screenshot, it can be seen that the `python` command was consuming the highest CPU usage.
+The output is a continuously updating list. The process at the very top of the list under the `COMMAND` column is consuming the most CPU resources at that moment. In this screenshot, it can be seen that the `vnc startup.sh` command was consuming the highest CPU usage.
 
 ---
 
